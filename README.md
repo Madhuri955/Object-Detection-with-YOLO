@@ -1,5 +1,6 @@
 YOLO (You Only Look Once) is an algorithm used for object detection, which means it helps a computer identify and locate objects in an image or video. It's commonly used in AI projects like self-driving cars, security cameras, and robotics to detect objects like pedestrians, cars, or animals.
 
+
 How YOLO Works:
 
 Input Image: You give YOLO an image.
@@ -12,6 +13,7 @@ What object is in the cell (if any), such as a car, dog, or person.
 Bounding box: The position and size of the object within the image.
 
 Single Pass: Unlike older methods that look at different parts of the image multiple times, YOLO looks at the image only once, hence the name.
+
 
 Key Points:
 
